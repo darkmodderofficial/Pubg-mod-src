@@ -23,7 +23,9 @@ Pubg mobile - bgmi - lite - kr - vng, mod menu apk and source codes for modders 
 
 [![Github](https://img.shields.io/badge/TELEGRAM-TgGroup-orange?style=for-the-badge&logo=telegram)][![Github]
 <h3 style="color:blue">https://t.me/Dazai_FreeSrc</h3>
+### **☎️ Contact**
 
+[![Telegram Contact](https://img.shields.io/badge/Telegram-Contact_@Osamu_Kirito-white?style=social&logo=telegram)]
 <h3 style="color:purple"> THANKS FOR JOINING OUR COMMUNITY!</h3>
 
 ``© AllwaysDark``
