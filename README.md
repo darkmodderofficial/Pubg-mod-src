@@ -21,7 +21,7 @@ Pubg mobile - bgmi - lite - kr - vng, mod menu apk and source codes for modders 
 ``(Tap To Redirect)``
 
 
-[![Github](https://img.shields.io/badge/TELEGRAM-TgGroup-orange?style=for-the-badge&logo=telegram)](https://telegram.dog/Osamu_Kirito)
+[![Github](https://img.shields.io/badge/TELEGRAM-TgGroup-orange?style=for-the-badge&logo=telegram)](https://telegram.dog/Dazai_FreeSrc)
 ### **☎️ Contact**
 
 [![Telegram Contact](https://img.shields.io/badge/Telegram-Contact_@Osamu_Kirito-white?style=social&logo=telegram)](https://telegram.dog/Osamu_Kirito)
