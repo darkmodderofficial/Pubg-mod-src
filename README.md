@@ -15,7 +15,6 @@ Pubg mobile - bgmi - lite - kr - vng, mod menu apk and source codes for modders 
 <img src="https://cdn.discordapp.com/attachments/870740780938047520/871007159150837820/20210610_164346.jpg">
 
 <p><b>Allways Dark ( Team Virus ) is a Coder SGroup..We make/provide working tools and src codes..You can reach us by visiting this links.. Thank You So Much!</b></p>
-![images (5)](https://github.com/user-attachments/assets/caa5dbf3-5211-45d3-b819-19576e9b966e)
 
 <p style="color:purple"><b>Connect With Us:</b></p>
 
@@ -23,6 +22,8 @@ Pubg mobile - bgmi - lite - kr - vng, mod menu apk and source codes for modders 
 
 
 [![Github](https://img.shields.io/badge/TELEGRAM-TgGroup-orange?style=for-the-badge&logo=telegram)][![Github]
-<h3 style="color:purple"> THANKS FOR USING OUR TOOL </h3>
+<h3 style="color:blue">https://t.me/Dazai_FreeSrc</h3>
+
+<h3 style="color:purple"> THANKS FOR JOINING OUR COMMUNITY!</h3>
 
 ``© AllwaysDark``
