@@ -1,6 +1,6 @@
 # Pubg-mod-src
 Pubg mobile - bgmi - lite - kr - vng, mod menu apk and source codes for modders join TG for it.
-# V-DdoS<h1 style="color:red" align="center">What is V-DdoS tool?</h1>
+<h1 style="color:red" align="center">Read Down For Mor Info</h1>
 <div>
 <p style="color:black"><b><i><u>Distributed Denial Of Service</u></i> (DDoS) attacks are a subclass of denial of service (DoS) attacks. A DDoS attack involves multiple connected online devices, collectively known as a botnet, which are used to overwhelm a target website with fake traffic.</b></p>
 <img src="https://cdn.discordapp.com/attachments/870740780938047520/870740893093724240/20210731_005139.jpg">
